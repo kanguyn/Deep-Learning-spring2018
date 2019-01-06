@@ -29,7 +29,7 @@ All notebooks follow a general structure:
 Deep Learning is a new approach in Machine Learning which allows to build models that have shown superior performance fora wide range of applications, in particular Computer Vision and Natural Language Processing. Thanks to the joint availability of large data corpus and affordable processing power, Deep Learning has revived the old field  of Artificial Neural Networks and provoked the "Renaissance" of AI (Artificial Intelligence).  The present notebooks will address this topic, implementing from scratch and using well known libraries, Deep Neural Networks.
 
 ## Sources and acknowledgments
-The initial assignments come from the course in [DeepLearning](www.eurecom.fr/en/course/DeepLearning-2018Spring) taught in EURECOM by [Bernoit Huet](http://www.eurecom.fr/~huet/)
+The initial assignments come from the course in [DeepLearning](www.eurecom.fr/en/course/DeepLearning-2018Spring) taught in EURECOM by [Benoit Huet](http://www.eurecom.fr/~huet/)
 
 The notebooks have been crafted mainly by their authors, following well known open source documentation for the different libraries used and the material from the course.
 
