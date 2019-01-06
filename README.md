@@ -1,6 +1,7 @@
 # DeepLearning Spring2018
 ----------
 Introduction to Deep Learning Labs
+
 Collection of Deep Learning approaches, starting from simple Neural Network architectures and pursuing with contemporary and state-of-the-art practices and models.  
 
 This repository contains Jypyter notebook python codes from the course Deep Learning taught at EURECOM, by prof. Benoit Huet, in Spring 2018.
