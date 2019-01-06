@@ -19,7 +19,7 @@ All notebooks follow a general structure:
 
 ## Details
 * _Language_: Python over Jupyter Notebooks.
-* _Execution_: managed by [Zoe](http://zoe-analytics.eu/)
+* _Execution_: set over a remote Spark cluster in [EURECOM](http://www.eurecom.fr/fr), managed by [Zoe](http://zoe-analytics.eu/)
 * _Libraries_: tensorflow, numpy, matplotlib
 
 ## Authors 
